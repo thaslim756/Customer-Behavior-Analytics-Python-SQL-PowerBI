@@ -158,7 +158,7 @@ The dataset contains customer information, including:
 
 ## 🖼️ Dashboard Preview
 
-![Customer Behavior Dashboard](./Customer_Behaviour_Screenshot.png)
+![Customer Behavior Dashboard](./Customer_Behavior_Screenshot.png)
 
 ---
 
